@@ -6,6 +6,12 @@ Contributions most welcome.
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
+## Goals
+1. Achive maximum working knowledge in compact time frame
+2. Train using live fire ammo on simulated targets
+3. See one, do one, teach one apprentiship program.
+4. Follow Andrews Ai Checklist.
+
 ## Contents
 
 1. [Courses](#courses)
